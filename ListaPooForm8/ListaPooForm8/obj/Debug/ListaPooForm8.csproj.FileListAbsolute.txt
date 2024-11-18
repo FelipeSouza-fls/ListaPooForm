@@ -1,0 +1,10 @@
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\obj\Debug\ListaPooForm8.csproj.AssemblyReference.cache
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\obj\Debug\ListaPooForm8.Form1.resources
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\obj\Debug\ListaPooForm8.Properties.Resources.resources
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\obj\Debug\ListaPooForm8.csproj.GenerateResource.cache
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\obj\Debug\ListaPooForm8.csproj.CoreCompileInputs.cache
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\bin\Debug\ListaPooForm8.exe.config
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\bin\Debug\ListaPooForm8.exe
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\bin\Debug\ListaPooForm8.pdb
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\obj\Debug\ListaPooForm8.exe
+E:\Nova pasta (2)\documentos Felipe\etec trabalhos\TCC\CAMPS - Atividades\Federal Program\ListaPOOform\ListaPooForm8\ListaPooForm8\obj\Debug\ListaPooForm8.pdb
